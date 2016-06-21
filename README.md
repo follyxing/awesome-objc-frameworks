@@ -1,7 +1,6 @@
 # oc框架排名列表 
  `整理自Github高级搜索 language:Objective-C stars:>800` 
  
- >PS:因为每次浏览都这些框架都记不住框架都是干什么的，所以就把每个里面的图片都抓取出来了。每月不定时更新。欢迎Star
  
   <a href='https://github.com/follyxing/awesome-swift-frameworks/blob/master/README.md'>Goto Swift Frameworks 【Swift框架传送门】</a>
  
