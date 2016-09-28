@@ -3,7 +3,7 @@
 
 |ID|Framework|Images|
 |---|---|---|
-|1|[AFNetworking/AFNetworking](https://www.github.com/AFNetworking/AFNetworking)<br/><img src="http://download.easyicon.net/png/1169241/16/"/>27,103<br/>A delightful networking framework for iOS, OS X, watchOS, and tvOS.||
+|1|[AFNetworking/AFNetworking](https://www.github.com/AFNetworking/AFNetworking)<br/><img src="http://download.easyicon.net/png/1169241/16/"/>27,103<br/>A delightful networking framework for iOS, OS X, watchOS, and tvOS.|😜|
 |2|[rs/SDWebImage](https://www.github.com/rs/SDWebImage)<br/><img src="http://download.easyicon.net/png/1169241/16/"/>15,769<br/>Asynchronous image downloader with cache support as a UIImageView category||
 |3|[BradLarson/GPUImage](https://www.github.com/BradLarson/GPUImage)<br/><img src="http://download.easyicon.net/png/1169241/16/"/>13,879<br/>An open source iOS framework for GPU-based image and video processing||
 |4|[SnapKit/Masonry](https://www.github.com/SnapKit/Masonry)<br/><img src="http://download.easyicon.net/png/1169241/16/"/>13,228<br/>Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout||
